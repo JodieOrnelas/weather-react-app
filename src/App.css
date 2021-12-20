@@ -1,6 +1,10 @@
-.App footer {
+footer {
   font-size: 11px;
-  margin: 10px 0;
-  text-align: center;
+  margin: 10px auto;
   max-width: 600px;
+  text-align: center;
+}
+
+.App {
+  margin: 30px auto;
 }
